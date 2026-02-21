@@ -1,6 +1,6 @@
 import { Link, useNavigate } from "react-router-dom"
 import { useState } from "react"
-import { Navigate } from "react-router-dom"
+
 
 function Signup(props) {
 
